@@ -1,5 +1,27 @@
 # 💫 About Me:
-AI-based healthcare projects (Menstrual Stem Cell Research)<br>Data Analysis projects using Python<br>AI & Machine Learning projects<br>Healthcare + AI innovations<br>Open-source data science projects<br>Machine Learning & Deep Learning<br>Natural Language Processing (NLP)<br>Data Visualization & Model Optimization
+
+🎓 Computer Science Student passionate about AI & Data Science
+🤖 Building impactful solutions in Healthcare + Artificial Intelligence
+
+🔭 Currently working on:
+
+AI-based healthcare project (Menstrual Stem Cell Research)
+
+Data Analysis using Python
+
+🌱 Currently learning:
+
+Machine Learning & Deep Learning
+
+Natural Language Processing (NLP)
+
+💡 Interests:
+
+Healthcare + AI innovations
+
+Open-source data science projects
+
+Real-world problem solving using AI
 
 
 ## 🌐 Socials:
