@@ -1,6 +1,6 @@
 # 💫 About Me:
 
-🎓 Computer Science Student passionate about AI & Data Science
+🎓 Information Science Student passionate about AI & Data Science
 🤖 Building impactful solutions in Healthcare + Artificial Intelligence
 
 🔭 Currently working on:
