@@ -1,9 +1,12 @@
 
 # 💫 About Me:
+
 🎓 #3rd-year Information Science Engineering student passionate about Applied AI & ML Systems
+
 🤖 Building production-level AI solutions across Safety, NLP & Generative AI
 
 🔭 Currently working on:
+
    → YT-Chatbot-RAG — YouTube Q&A app with hybrid semantic search (Groq + sentence-transformers)
    
    → Production ML Portfolio: RAG pipelines, LoRA fine-tuning & multimodal voice assistants
