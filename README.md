@@ -9,6 +9,7 @@
    → Production ML Portfolio: RAG pipelines, LoRA fine-tuning & multimodal voice assistants
 
 🛠️ Projects I've built:
+
    → 🐶 Dog Breed Prediction — CNN-based multi-class image classifier (TensorFlow/Keras)
    
    → 🖼️ Image Classification — Deep learning pipelines with PyTorch & transfer learning
@@ -28,6 +29,7 @@
    → Computer Vision with YOLOv8 for real-world safety systems
 
 🧰 Tech Stack:
+
    → ML/DL: TensorFlow · Keras · PyTorch · Scikit-learn
    
    → NLP & GenAI: Groq · LangChain · Sentence-Transformers · HuggingFace
