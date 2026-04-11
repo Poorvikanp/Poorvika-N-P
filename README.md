@@ -70,14 +70,6 @@
 ---
 [![](https://visitcount.itsvg.in/api?id=Poorvikanp&icon=0&color=0)](https://visitcount.itsvg.in)
 
-## 📊 GitHub Stats (may take time to populate)
 
-[![Poorvikanp's GitHub stats](https://github-readme-stats.vercel.app/api?username=Poorvikanp&show_icons=true&theme=dark)](https://github.com/Poorvikanp)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Poorvikanp&layout=compact&theme=dark)](https://github.com/Poorvikanp)
-
-## 🏆 GitHub Trophies
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=Poorvikanp&theme=radical)](https://github.com/Poorvikanp)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
