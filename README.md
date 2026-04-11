@@ -20,20 +20,30 @@
    → 📊 Data Analysis & EDA — End-to-end analysis dashboards with Pandas, Matplotlib & Seaborn
 
 🌱 Currently learning:
+
    → Large Language Models & Retrieval-Augmented Generation (RAG)
+   
    → Fine-tuning (LoRA/QLoRA) & LLM Observability (Langfuse, OpenTelemetry)
+   
    → Computer Vision with YOLOv8 for real-world safety systems
 
 🧰 Tech Stack:
    → ML/DL: TensorFlow · Keras · PyTorch · Scikit-learn
+   
    → NLP & GenAI: Groq · LangChain · Sentence-Transformers · HuggingFace
+   
    → Data: Pandas · NumPy · Matplotlib · Seaborn
+   
    → Deployment: Streamlit · Flask
 
 💡 Interests:
+
    → Generative AI & Full-stack ML systems
+   
    → AI for infrastructure safety & healthcare
+   
    → Open-source, end-to-end deployable AI projects
+   
 
 
 ## 🌐 Socials:
