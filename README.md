@@ -5,13 +5,18 @@
 
 🔭 Currently working on:
    → YT-Chatbot-RAG — YouTube Q&A app with hybrid semantic search (Groq + sentence-transformers)
+   
    → Production ML Portfolio: RAG pipelines, LoRA fine-tuning & multimodal voice assistants
 
 🛠️ Projects I've built:
    → 🐶 Dog Breed Prediction — CNN-based multi-class image classifier (TensorFlow/Keras)
+   
    → 🖼️ Image Classification — Deep learning pipelines with PyTorch & transfer learning
+   
    → 💬 Sentiment Analysis — NLP model for opinion mining using Scikit-learn
+   
    → 🤖 Chatbot / NLP App — Conversational AI with intent recognition
+   
    → 📊 Data Analysis & EDA — End-to-end analysis dashboards with Pandas, Matplotlib & Seaborn
 
 🌱 Currently learning:
