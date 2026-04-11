@@ -1,4 +1,34 @@
 
+# 💫 About Me:
+🎓 #3rd-year Information Science Engineering student passionate about Applied AI & ML Systems
+🤖 Building production-level AI solutions across Safety, NLP & Generative AI
+
+🔭 Currently working on:
+   → YT-Chatbot-RAG — YouTube Q&A app with hybrid semantic search (Groq + sentence-transformers)
+   → Production ML Portfolio: RAG pipelines, LoRA fine-tuning & multimodal voice assistants
+
+🛠️ Projects I've built:
+   → 🐶 Dog Breed Prediction — CNN-based multi-class image classifier (TensorFlow/Keras)
+   → 🖼️ Image Classification — Deep learning pipelines with PyTorch & transfer learning
+   → 💬 Sentiment Analysis — NLP model for opinion mining using Scikit-learn
+   → 🤖 Chatbot / NLP App — Conversational AI with intent recognition
+   → 📊 Data Analysis & EDA — End-to-end analysis dashboards with Pandas, Matplotlib & Seaborn
+
+🌱 Currently learning:
+   → Large Language Models & Retrieval-Augmented Generation (RAG)
+   → Fine-tuning (LoRA/QLoRA) & LLM Observability (Langfuse, OpenTelemetry)
+   → Computer Vision with YOLOv8 for real-world safety systems
+
+🧰 Tech Stack:
+   → ML/DL: TensorFlow · Keras · PyTorch · Scikit-learn
+   → NLP & GenAI: Groq · LangChain · Sentence-Transformers · HuggingFace
+   → Data: Pandas · NumPy · Matplotlib · Seaborn
+   → Deployment: Streamlit · Flask
+
+💡 Interests:
+   → Generative AI & Full-stack ML systems
+   → AI for infrastructure safety & healthcare
+   → Open-source, end-to-end deployable AI projects
 
 
 ## 🌐 Socials:
